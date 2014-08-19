@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-sunlight",
+  "version": "0.1.0",
+  "author": {
+    "name": "Sunlight Labs",
+    "email": "cdunwell@sunlightfoundation.com"
+  },
+  "description": "Unified NodeJS bindings for Sunlight APIs http://sunlightfoundation.com/api/",
+  "contributors": [
+    {
+      "name": "Clayton Dunwell",
+      "email": "cdunwell@sunlightfoundation.com"
+    }
+  ],
+  "main": "./lib/main",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunlightlabs/nodejs-sunlight"
+  },
+  "keywords": [
+    "api",
+    "congress",
+    "sunlight foundation",
+    "sunlight labs",
+    "open government"
+  ],
+  "dependencies": {},
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
