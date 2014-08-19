@@ -1,7 +1,7 @@
 nodejs-sunlight
 ===============
 
-Unified NodeJS bindings for Sunlight APIs http://sunlightfoundation.com/api/ . Original code forked from https://github.com/mcwhittemore/sunlight-congress-api .
+Unified NodeJS bindings for Sunlight APIs http://sunlightfoundation.com/api/ . Original code forked from https://github.com/mcwhittemore/sunlight-congress-api . Work in progress at the moment so stay tuned for better documentation.
 
 License
 ===============
